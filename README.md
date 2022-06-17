@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayhan Uddin</h1>
-<h3 align="center">A passionate Full TIme Backend WordPress and Part-Time Frontend Developer.</h3>
+<h3 align="center">A passionate Full Time Backend WordPress and Part-Time Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanuddin2019&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanuddin2019" /> </p>
 
