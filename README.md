@@ -28,3 +28,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanuddin2019&" alt="rayhanuddin2019" /></p>
 
+
+<!-- ./STATS -->
+<div>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rayhanuddin2019&theme=react-dark&hide_border=true&area=true" />
+</div>
+
