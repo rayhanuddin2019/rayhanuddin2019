@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayhan Uddin</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Rayhan+Uddin;I+SPECIALIZE+===+BackEnd+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 <h3 align="center">A passionate Full Time Backend WordPress and Part-Time Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanuddin2019&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanuddin2019" /> </p>
