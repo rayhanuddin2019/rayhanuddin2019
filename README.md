@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rayhan Uddin</h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Rayhan Uddin&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Rafiqul+Islam+Suvo;I+SPECIALIZE+===+FRONTEND+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Rayhan+Uddin;I+SPECIALIZE+===+FRONTEND+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full Time Backend WordPress and Part-Time Frontend Developer.</h3>
 
