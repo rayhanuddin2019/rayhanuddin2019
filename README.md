@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhanuddin2019" alt="rayhanuddin2019" /></a> </p>
 
-- 🔭 I’m currently working on WordPress WooCommerce, Elementor Page Builder [ShopReady](https://wordpress.org/plugins/shopready-elementor-addon/)
+- 🔭 I’m currently working on WordPress Event property system [marblifestyle](http://marbslifestyle.com/)
   
-- 🌱 I’m currently learning **Gutenberge Block Theme and Plugin**
+- 🌱 I’m currently learning data structure and algoritheme
 
 - 👨‍💻 All of my projects are available at [#](#)
 
