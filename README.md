@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on WordPress Event property system [marblifestyle](http://marbslifestyle.com/)
   
-- 🌱 I’m currently learning data structure and algoritheme
+- 🌱 I’m currently learning data structure and algorithm
 
 - 👨‍💻 All of my projects are available at [#](#)
 
